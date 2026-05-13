@@ -1,0 +1,15 @@
+[submodule "Megakernels"]
+	path = Megakernels
+	url = https://github.com/HazyResearch/Megakernels.git
+[submodule "dl_lowlat_infer"]
+	path = dl_lowlat_infer
+	url = https://github.com/NVIDIA/dl-lowlat-infer.git
+[submodule "mirage"]
+	path = mirage
+	url = https://github.com/mirage-project/mirage.git
+[submodule "lucebox_hub"]
+	path = lucebox_hub
+	url = https://github.com/Luce-Org/lucebox-hub.git
+[submodule "tilert"]
+	path = tilert
+	url = https://github.com/tile-ai/TileRT.git
