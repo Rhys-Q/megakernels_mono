@@ -14,6 +14,7 @@
 | [06-execution-backends.md](06-execution-backends.md) | 三种执行后端：PyTorch / PyVM / CUDA MK |
 | [07-cuda-megakernel.md](07-cuda-megakernel.md) | CUDA 状态机深度解析 |
 | [08-demo-walkthrough.md](08-demo-walkthrough.md) | 完整 Demo：从加载模型到逐步生成一个 Token |
+| [09-design-analysis.md](09-design-analysis.md) | 设计解析：调度单元、同步机制与动态 Shape |
 
 ## 前置知识
 
