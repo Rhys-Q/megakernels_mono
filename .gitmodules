@@ -13,3 +13,6 @@
 [submodule "tilert"]
 	path = tilert
 	url = https://github.com/tile-ai/TileRT.git
+[submodule "onevl"]
+	path = onevl
+	url = https://github.com/xiaomi-research/onevl
