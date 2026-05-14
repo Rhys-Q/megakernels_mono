@@ -16,3 +16,6 @@
 [submodule "onevl"]
 	path = onevl
 	url = https://github.com/xiaomi-research/onevl
+[submodule "tilelang"]
+	path = tilelang
+	url = https://github.com/tile-ai/tilelang.git
