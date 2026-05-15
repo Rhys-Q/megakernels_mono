@@ -19,3 +19,6 @@
 [submodule "tilelang"]
 	path = tilelang
 	url = https://github.com/tile-ai/tilelang.git
+[submodule "flashrt"]
+	path = flashrt
+	url = https://github.com/LiangSu8899/FlashRT.git
